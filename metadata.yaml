@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37430'
     url: http://www.gutenberg.org/2009/agents/37430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31746#Les-rues-de-Paris-Tome-Premier
 gutenberg_bookshelf:
 - FR Villes
 - FR Biographie, Mémoires, Journal intime, Correspondance
