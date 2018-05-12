@@ -1,0 +1,30 @@
+_repo: Les-rues-de-Paris-Tome-Premier_31746
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bouniol, Bathild
+    birthdate: 1815
+    deathdate: 1877
+    gutenberg_agent_id: '37430'
+    url: http://www.gutenberg.org/2009/agents/37430
+description: ''
+gutenberg_bookshelf:
+- FR Villes
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31746'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Streets -- France -- Paris'
+- !lcc 'DC'
+- !lcsh 'France -- Biography'
+title: Les rues de Paris, Tome Premier
+url: http://www.gutenberg.org/ebooks/31746
